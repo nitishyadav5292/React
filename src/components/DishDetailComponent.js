@@ -40,7 +40,6 @@ import {Card, CardImg, CardImgOverlay, CardTitle, CardBody, CardText} from 'reac
         )
     }
     }
-
     const DishDetail = (props) => {
         if(props.dish!=null){
         return(
@@ -61,4 +60,3 @@ import {Card, CardImg, CardImgOverlay, CardTitle, CardBody, CardText} from 'reac
 
 
 export default DishDetail;
-
